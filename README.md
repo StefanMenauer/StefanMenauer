@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Stefan
-- 👀 I’m interested in Data Analytics, Data Science, new Technologies, cars.
-- 🌱 I’m currently learning SQL, Python, NumPy, Pandas, Matplotlip, Pyspark in relation to IMPACT (BMW) for Data Science.
+- 👋 Hi, my name is Stefan.
+- 👀 I’m interested in Data Analytics, Data Science, new Technologies and cars.
+- 🌱 I’m currently learning SQL, Python, NumPy, Pandas, Matplotlip, PySpark and JavaScript in relation to IMPACT Palantir environment (BMW) for Data Science.
 - 🕸 I’m looking to collaborate on colleauges for data driven informatic projekts, technologie scouts and engineers, techcompanies and start ups.
 - 📫 How to reach me: E-Mail Stefan.Menauer@gmail.com
 
